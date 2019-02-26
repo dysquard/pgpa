@@ -3,6 +3,10 @@ Panda Gamepad Pro Activator Activation Tutorial
 
 1. Turn on USB debugging
   In Settings > About this Phone, tap System version or Android Version or Build Number several times to enable Developer Options.
+     
+<p align="center">
+    <img src="https://github.com/dysquard/PGPActivator/blob/master/1.png"  width="380">
+</p>
 
   *Note: This path may be different on different phones.*
 
