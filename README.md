@@ -1,4 +1,4 @@
-Panda Gamepad Pro Activator Activation Tutorial
+Panda Gamepad Pro Activation Tutorial
 ========================
 
 Open the following link on your `PC` and download the activator:
