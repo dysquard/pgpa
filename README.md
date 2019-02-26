@@ -23,7 +23,15 @@ Panda Gamepad Pro Activator Activation Tutorial
     <img src="https://github.com/dysquard/PGPActivator/blob/master/3.png"  width="380">
 </p>
 
-  Download Activator
+
+
+<p align="left">
+<a href="https://github.com/dysquard/PGPActivator/releases/download/1.0/GamepadPro.Active.Tool.zip">  Download Activator
+  </a>
+</p>
+  
+  
+  
   Unzip the .rar file to any folder, then double click the Activate.bat file to activate your phone.
   <p align="center">
     <img src="https://github.com/dysquard/PGPActivator/blob/master/4.png"  width="380">
