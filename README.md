@@ -11,29 +11,30 @@ https://dysquard.github.io/pgp/
 
 
 ## 1. Turn on USB debugging
-  In Settings > About this Phone, tap System version or Android Version or Build Number several times to enable Developer Options.
+  In Settings > About this Phone, tap System version or Android Version or Build Number several times to enable `Developer Options`.
      
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/1.png"  width="380">
 </p>
 
-  *Note: This path may be different on different phones.*
 
-
-  In Settings > Developer Options, enable USB debugging.
+  In Settings > Developer Options, enable `USB debugging`.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/2.png"  width="380">
 </p>
 
+  *Note: This path may be different on different phones.*
+
+
 ## 2. Connect to PC and run script
   Connect your phone to PC via USB cable.
-  If a popup window prompts on your phone, tap Allow or Trust button.
+  If a popup window prompts on your phone, tap Allow or Trust or OK button.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/3.png"  width="380">
 </p>
 
 
-  Unzip the .zip file to any folder, then double click the Activate.bat file to activate your phone.
+  Unzip the .zip file to any folder, then double click the `Activate.bat` file to activate your phone.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/4.png"  width="380">
 </p>
