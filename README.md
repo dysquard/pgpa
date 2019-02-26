@@ -1,6 +1,14 @@
 Panda Gamepad Pro Activator Activation Tutorial
 ========================
 
+Open the following link on your `PC` and download the activator:
+https://github.com/dysquard/PGPActivator
+<p align="left">
+<a href="https://github.com/dysquard/PGPActivator/releases/download/1.0/GamepadPro.Active.Tool.zip">  Download Activator
+  </a>
+</p>
+
+
 ## 1. Turn on USB debugging
   In Settings > About this Phone, tap System version or Android Version or Build Number several times to enable Developer Options.
      
@@ -23,12 +31,7 @@ Panda Gamepad Pro Activator Activation Tutorial
     <img src="https://github.com/dysquard/PGPActivator/blob/master/3.png"  width="380">
 </p>
 
-Open the following link on your `PC` and download the activator:
-https://github.com/dysquard/PGPActivator
-<p align="left">
-<a href="https://github.com/dysquard/PGPActivator/releases/download/1.0/GamepadPro.Active.Tool.zip">  Download Activator
-  </a>
-</p>
+
 
   Unzip the .zip file to any folder, then double click the Activate.bat file to activate your phone.
   <p align="center">
