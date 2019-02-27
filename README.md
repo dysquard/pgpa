@@ -5,7 +5,7 @@ Open the following link on your `PC` and download the activator:
 https://dysquard.github.io/pgp/
 
 <p align="left">
-<a href="https://github.com/dysquard/PGPActivator/releases/download/1.0/GamepadPro.Active.Tool.zip">  Download Activator
+<a href="https://github.com/dysquard/PGPActivator/releases/download/1.0/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
   </a>
 </p>
 
