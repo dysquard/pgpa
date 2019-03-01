@@ -5,7 +5,7 @@ Open the following link on your `PC` and download the activator:
 https://dysquard.github.io/pgp/
 
 <p align="left">
-<a href="https://github.com/dysquard/PGPActivator/releases/download/1.0/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
+<a href="https://github.com/dysquard/pgp/releases/download/101/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
   </a>
 </p>
 
@@ -39,6 +39,8 @@ https://dysquard.github.io/pgp/
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/4.png"  width="380">
 </p>
 
-  When activation is done, you can plug out your phone.
+  When activation is done, you can plug out your phone.**If activation succeeded but then failed after pluging out phone, please try ActivateWifi.bat**
 
   **Reactivation is needed if your phone restarts.**
+  
+  
