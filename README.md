@@ -44,3 +44,4 @@ https://dysquard.github.io/pgp/
   **Reactivation is needed if your phone restarts.**
   
   
+ If you have any trouble, please send email to `feedback@octopusgame.com` or post an issue on GitHub.
