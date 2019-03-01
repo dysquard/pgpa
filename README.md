@@ -39,7 +39,7 @@ https://dysquard.github.io/pgp/
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/4.png"  width="380">
 </p>
 
-  When activation is done, you can plug out your phone.**If activation succeeded but then failed after pluging out phone, please try ActivateWifi.bat**
+  When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try ActivateWifi.bat**
 
   **Reactivation is needed if your phone restarts.**
   
