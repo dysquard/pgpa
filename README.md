@@ -5,14 +5,14 @@ Open the following link on your `PC` and download the activator:
 https://dysquard.github.io/pgp/
 
 <p align="left">
-<a href="https://github.com/dysquard/pgp/releases/download/101/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
+<a href="https://github.com/dysquard/pgp/releases/download/102/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
   </a>
 </p>
 
 
 ## 1. Turn on USB debugging
   In Settings > About this Phone, tap System version or Android Version or Build Number several times to enable `Developer Options`.
-     
+     GamepadPro.Active.Tool.zip
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/1.png"  width="380">
 </p>
