@@ -44,3 +44,4 @@ https://dysquard.github.io/pgp/
   
   
  If you have any trouble, please send email to `feedback@octopusgame.com` or post an issue on GitHub.
+ Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
