@@ -27,16 +27,17 @@ https://dysquard.github.io/pgp/
 
 ## 2. Connect to PC and run script
   Connect your phone to PC via USB cable.
-  If a popup window prompts on your phone, tap Allow or Trust or OK button.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/3.png"  width="380">
-</p>
-
 
   Unzip the .zip file to any folder, then double click the `Activate.bat` file to activate your phone.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/4.png"  width="380">
 </p>
+
+  If a popup window prompts on your phone, tap Allow or Trust or OK button.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/3.png"  width="380">
+</p>
+
 
   When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`**.
 
