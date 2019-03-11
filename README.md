@@ -29,12 +29,9 @@ Open the following link on your `PC` and download the activator:
   Connect your phone to PC via USB cable.
 
   Unzip the .zip file to any folder,
- `
+
   YOU MUST UNZIP THE ZIP FILE FIRST!! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!
-  `
-  `
-  YOU MUST UNZIP THE ZIP FILE FIRST!! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!  
-  `
+
   then double click the `Activate.bat` file to activate your phone.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/4.png"  width="380">
