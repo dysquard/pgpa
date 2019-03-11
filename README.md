@@ -11,7 +11,7 @@ Open the following link on your `PC` and download the activator:
 
 
 ## 1. Turn on USB debugging
-  In Settings > About this Phone, tap System version or Android Version or Build Number several times to enable `Developer Options`.
+  In Settings > About this Phone, tap `Build Number` or `System Version` or `Android Version` several times(5~7 times) to enable `Developer Options`.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/1.png"  width="380">
 </p>
