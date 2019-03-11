@@ -44,5 +44,5 @@ https://dysquard.github.io/pgp/
   **Reactivation is needed if your phone restarts.**
   
   
- If you have any trouble, please send pos on our Facebook group https://www.facebook.com/PandaGamingStudio/posts/ or post an issue on GitHub.
+ If you have any trouble, please send pos on our Facebook group `https://www.facebook.com/PandaGamingStudio/posts/` or post an issue on GitHub.
  Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
