@@ -2,7 +2,7 @@ Panda Gamepad Pro Activation Tutorial
 ========================
 
 Open the following link on your `PC` and download the activator:
-https://dysquard.github.io/pgp/
+<https://dysquard.github.io/pgp/>
 
 <p align="left">
 <a href="https://github.com/dysquard/pgp/releases/download/102/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
