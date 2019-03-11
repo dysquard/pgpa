@@ -11,6 +11,9 @@ Open the following link on your `PC` and download the activator:
 
 
 ## 1. Turn on USB debugging
+
+  *Note: Different phone has different Settings path or name.*
+
   In Settings > About this Phone, tap `Build Number` or `System Version` or `Android Version` several times(5~7 times) to enable `Developer Options`.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/1.png"  width="380">
@@ -22,7 +25,6 @@ Open the following link on your `PC` and download the activator:
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/2.png"  width="380">
 </p>
 
-  *Note: This path may be different on different phones.*
 
 
 ## 2. Connect to PC and run script
