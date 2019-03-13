@@ -32,7 +32,11 @@ Open the following link on your `PC` and download the activator:
 
   Unzip the .zip file to any folder,
 
-  YOU MUST UNZIP THE ZIP FILE FIRST!! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!
+  
+  <font color=#00ffff size=24>  *YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!*
+</font>
+
+  
   <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/extract.png"  width="380">
 </p>
