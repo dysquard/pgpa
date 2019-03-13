@@ -33,8 +33,7 @@ Open the following link on your `PC` and download the activator:
   Unzip the .zip file to any folder,
 
   
-  <font color=#00ffff size=24>  *YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!*
-</font>
+ *YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!*
 
   
   <p align="center">
