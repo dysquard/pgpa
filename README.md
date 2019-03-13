@@ -12,7 +12,7 @@ Open the following link on your `PC` and download the activator:
 
 ## 1. Turn on USB debugging
 
-  *Note: Different phone has different Settings path or name.*
+  **Note: Different phone has different Settings path or name.**
 
   In Settings > About this Phone, tap `Build Number` or `System Version` or `Android Version` several times(5~7 times) to enable `Developer Options`.
 <p align="center">
@@ -33,7 +33,7 @@ Open the following link on your `PC` and download the activator:
   Unzip the .zip file to any folder,
 
   
- *YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!*
+ **YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!**
 
   
   <p align="center">
