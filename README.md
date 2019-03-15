@@ -69,7 +69,7 @@ Open the following link on your `PC` and download the activator:
 <a href="https://github.com/dysquard/pgp/releases/download/samsung/SAMSUNG_USB_Driver_for_Mobile_Phones.exe">  Download USB Driver For Samsung
   </a>
 </p>
-  
 ## Troubleshoot 
- If you have any trouble, please send post on our Facebook group <https://www.facebook.com/PandaGamingStudio/posts/> or post an issue on GitHub.
+ If you have any trouble, please send post on our Facebook group <https://www.facebook.com/PandaGamingStudio/posts/> or post an issue on GitHub <https://github.com/dysquard/pgp/issues/new>
+.
  Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
