@@ -10,6 +10,8 @@ Open the following link on your `PC` and download the activator:
 </p>
 
 
+
+
 ## 1. Turn on USB debugging
 
   **Note: Different phone has different Settings path or name.**
@@ -29,11 +31,14 @@ Open the following link on your `PC` and download the activator:
 
 ## 2. Connect to PC and run script
   Connect your phone to PC via USB cable.
+  
+
 
   Unzip the .zip file to any folder,
 
   
  **YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!**
+
 
   
   <p align="center">
@@ -49,6 +54,14 @@ Open the following link on your `PC` and download the activator:
   If a popup window prompts on your phone, tap Allow or Trust or OK button.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/3.png"  width="380">
+</p>
+
+  **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
+  This link is for Samsung phones.
+  <p align="left">
+<a href="https://github.com/dysquard/pgp/blob/master/SAMSUNG_USB_Driver_for_Mobile_Phones.exe?raw=true
+">  Download USB Driver For Samsung
+  </a>
 </p>
 
 
