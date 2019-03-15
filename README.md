@@ -59,15 +59,18 @@ Open the following link on your `PC` and download the activator:
 
   When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`**.
   
-  **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
+
+  **Reactivation is needed if your phone restarts.**
+  
+  ## Common Problems ##
+  
+    **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
   This link is for Samsung phones.
   <p align="left">
 <a href="https://github.com/dysquard/pgp/blob/master/SAMSUNG_USB_Driver_for_Mobile_Phones.exe?raw=true
 ">  Download USB Driver For Samsung
   </a>
 </p>
-
-  **Reactivation is needed if your phone restarts.**
   
   
  If you have any trouble, please send post on our Facebook group <https://www.facebook.com/PandaGamingStudio/posts/> or post an issue on GitHub.
