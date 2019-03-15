@@ -56,6 +56,9 @@ Open the following link on your `PC` and download the activator:
     <img src="https://raw.githubusercontent.com/dysquard/pgp/master/3.png"  width="380">
 </p>
 
+
+  When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`**.
+  
   **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
   This link is for Samsung phones.
   <p align="left">
@@ -63,9 +66,6 @@ Open the following link on your `PC` and download the activator:
 ">  Download USB Driver For Samsung
   </a>
 </p>
-
-
-  When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`**.
 
   **Reactivation is needed if your phone restarts.**
   
