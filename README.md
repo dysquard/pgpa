@@ -62,8 +62,8 @@ Open the following link on your `PC` and download the activator:
 
   **Reactivation is needed if your phone restarts.**
   
-  ## Common Problems 
-  
+
+## Common Problems 
    **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
   This link is for Samsung phones.
   <p align="left">
@@ -72,7 +72,6 @@ Open the following link on your `PC` and download the activator:
   </a>
 </p>
   
-  ## Troubleshoot 
-  
+## Troubleshoot 
  If you have any trouble, please send post on our Facebook group <https://www.facebook.com/PandaGamingStudio/posts/> or post an issue on GitHub.
  Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
