@@ -64,7 +64,7 @@ Open the following link on your `PC` and download the activator:
   
   ## Common Problems ##
   
-    **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
+   **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
   This link is for Samsung phones.
   <p align="left">
 <a href="https://github.com/dysquard/pgp/blob/master/SAMSUNG_USB_Driver_for_Mobile_Phones.exe?raw=true
