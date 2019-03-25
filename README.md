@@ -4,13 +4,6 @@ Panda Gamepad Pro Activation Tutorial
 Open the following link on your `PC` and download the activator:
 <https://dysquard.github.io/pgp/>
 
-
-
-<p align="left">
-<a href="https://www.youtube.com/watch?v=a7HiiCJ59lc&feature=youtu.be&fbclid=IwAR3O3X6pegyKxs92qE8LxMWPtW1oek9deXqBEFGiUKslZcpFw39vBQkB9is">  Video Tutorial
-  </a>
-</p>
-
 <p align="left">
 <a href="https://github.com/dysquard/pgp/releases/download/102/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
   </a>
@@ -19,6 +12,11 @@ Open the following link on your `PC` and download the activator:
 
 
 
+
+<p align="left">
+<a href="https://www.youtube.com/watch?v=a7HiiCJ59lc&feature=youtu.be&fbclid=IwAR3O3X6pegyKxs92qE8LxMWPtW1oek9deXqBEFGiUKslZcpFw39vBQkB9is">  Video Tutorial
+  </a>
+</p>
 ## 1. Turn on USB debugging
 
   **Note: Different phone has different Settings path or name.**
