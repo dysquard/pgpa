@@ -5,7 +5,7 @@ Open the following link on your `PC` and download the activator:
 <https://dysquard.github.io/pgp/>
 
 <p align="left">
-<a href="https://github.com/dysquard/pgp/releases/download/102/GamepadPro.Active.Tool.zip">  Download Activator(Must on PC)
+<a href="https://github-production-release-asset-2e65be.s3.amazonaws.com/172650764/b8390780-4f1a-11e9-8bb3-defee5373080?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190325T082631Z&X-Amz-Expires=300&X-Amz-Signature=919e84d78169824b2b85a29d0456227bf689ca9365516751d5783779223f9ec0&X-Amz-SignedHeaders=host&actor_id=16001323&response-content-disposition=attachment%3B%20filename%3DGamepadPro.Active.Tool.rar&response-content-type=application%2Foctet-stream">  Download Activator(Must on PC)
   </a>
 </p>
 
