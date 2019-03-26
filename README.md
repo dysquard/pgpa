@@ -1,40 +1,18 @@
 Panda Gamepad Pro Activation Tutorial
 ========================
 
-Open the following link on your `PC` and download the activator:
-<https://dysquard.github.io/pgp/>
-
 <p align="left">
-<a href="https://github.com/dysquard/pgp/releases/download/104/GamepadPro.Active.Tool.rar">  Download Activator(Must on PC)
+<a href="https://github.com/dysquard/pgpa/releases/download/104/GamepadPro.Active.Tool.rar">  Download Activator(Must on PC)
   </a>
 </p>
-
-
-
 
 
 <p align="left">
 <a href="https://www.youtube.com/watch?v=a7HiiCJ59lc&feature=youtu.be&fbclid=IwAR3O3X6pegyKxs92qE8LxMWPtW1oek9deXqBEFGiUKslZcpFw39vBQkB9is">  Video Tutorial
   </a>
 </p>
-## 1. Turn on USB debugging
-
-  **Note: Different phone has different Settings path or name.**
-
-  In Settings > About this Phone, tap `Build Number` or `System Version` or `Android Version` several times(5~7 times) to enable `Developer Options`.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/1.png"  width="380">
-</p>
 
 
-  In Settings > Developer Options, enable `USB debugging`.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/2.png"  width="380">
-</p>
-
-
-
-## 2. Connect to PC and run script
   Connect your phone to PC via USB cable.
   
 
@@ -47,18 +25,18 @@ Open the following link on your `PC` and download the activator:
 
   
   <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/extract.png"  width="380">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/extract.png"  width="380">
 </p>
 
 
   then double click the `Activate.bat` file to activate your phone.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/4.png"  width="380">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/4.png"  width="380">
 </p>
 
   If a popup window prompts on your phone, tap Allow or Trust or OK button.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgp/master/3.png"  width="380">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/3.png"  width="380">
 </p>
 
 
@@ -71,7 +49,7 @@ Open the following link on your `PC` and download the activator:
 ## Common Problems 
    **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
   <p align="left">
-<a href="https://github.com/dysquard/pgp/releases/download/samsung/SAMSUNG_USB_Driver_for_Mobile_Phones.exe">  Download USB Driver For Samsung
+<a href="https://github.com/dysquard/pgpa/releases/download/samsung/SAMSUNG_USB_Driver_for_Mobile_Phones.exe">  Download USB Driver For Samsung
   </a>
 </p>
 ## Troubleshoot 
