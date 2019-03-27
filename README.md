@@ -17,12 +17,9 @@ Panda Gamepad Pro Activation Tutorial
   
 
 
-  Extract the .zip file to any folder,
+  Extract the .rar file to any folder,
 
   
- **YOU MUST UNZIP ALL FILES !! DO NOT OPEN BAT IN ZIP FILE DIRECTLY!!**
-
-
   
   <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/extract.png"  width="380">
@@ -44,6 +41,8 @@ Panda Gamepad Pro Activation Tutorial
   
 
   **Reactivation is needed if your phone restarts.**
+  **Do not turn off USB debugging after activation.**
+
   
 
 ## Common Problems 
