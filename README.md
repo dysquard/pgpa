@@ -17,7 +17,7 @@ Panda Gamepad Pro Activation Tutorial
   
 
 
-  Extract the .rar file to any folder,
+  Extract the .rar file to any folder(better to use `WinRAR` to extract),
 
   
   
