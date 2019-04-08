@@ -2,23 +2,19 @@ Panda Gamepad Pro Activation Tutorial
 ========================
 
 <p align="left">
-<a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(Must on PC)
+<a href="https://github.com/dysquard/pgpa/releases/download/107/GamepadPro.Active.Tool.exe" target="_blank">  Download Activator(Must on PC)
   </a>
 </p>
 
-
-<p align="left">
-<a href="https://www.youtube.com/watch?v=a7HiiCJ59lc&feature=youtu.be&fbclid=IwAR3O3X6pegyKxs92qE8LxMWPtW1oek9deXqBEFGiUKslZcpFw39vBQkB9is">  Video Tutorial
-  </a>
-</p>
 
 
   Connect your phone to PC via USB cable.
   
 
 
-  Extract the .rar file to any folder(better to use `WinRAR` to extract),
-
+  Double click the .exe file and a .zip file will be unzipped to the same folder.
+  
+  Open the .bat file.
   
   
   <p align="center">
