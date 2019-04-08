@@ -12,7 +12,7 @@ Panda Gamepad Pro Activation Tutorial
   
 
 
-  Double click the .exe file and some files will be unzipped to the same folder.
+  Double click the .exe file unzip the files to some folder.
   
    then double click the `Activate.bat` file to activate your phone.
 <p align="center">
