@@ -4,7 +4,11 @@ Panda Gamepad Pro Activation Tutorial
 <p align="left">
 <a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(Must on PC)
   </a>
+  
 </p>
+
+  Extract the .rar file to any folder(better to use `WinRAR` to extract),
+	
 
 
 
