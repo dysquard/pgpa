@@ -17,7 +17,7 @@ Panda Gamepad Pro Activation Tutorial
   
 
 
-  Double click the `GamepadPro Active Tool.exe` file to unzip.
+  Double click the `GamepadPro Active Tool.rar` file to unzip.
   
   Then double click the `Activate.bat` file to activate your phone.
 <p align="center">
