@@ -2,7 +2,7 @@ Panda Gamepad Pro Activation Tutorial
 ========================
 
 <p align="left">
-<a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(Must on PC)
+<a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(.RAR file, Must on PC)
   </a>
   
 </p>
@@ -12,6 +12,8 @@ Panda Gamepad Pro Activation Tutorial
 	
   If you have any trouble with that RAR file, you can <a href="https://github.com/dysquard/pgpa/releases/download/107/GamepadPro.Active.Tool.exe" target="_blank">  Download Exe File(Must on PC).
 </a>
+  Exe file may be reported as virus but it's all due to signature problem, not a virus at all.
+
 
 
 
