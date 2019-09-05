@@ -45,9 +45,6 @@ Panda Gamepad Pro Activation Tutorial
 
 ## Common Problems 
    **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
-  <p align="left">
-<a href="https://github.com/dysquard/pgpa/releases/download/samsung/SAMSUNG_USB_Driver_for_Mobile_Phones.exe">  Download USB Driver For Samsung
-  </a>
-</p>
+
 ## Troubleshoot 
  If you have any trouble, please send post on our <a href="https://www.facebook.com/PandaGamingStudio/posts/">Facebook Group</a> or post an issue on <a href="https://github.com/dysquard/pgp/issues/new">GitHub</a>. Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
