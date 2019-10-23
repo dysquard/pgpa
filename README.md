@@ -1,4 +1,4 @@
-Panda Gamepad Pro Activation Tutorial
+Panda Gamepad Pro/Mouse Pro Activation Tutorial
 ========================
 
 <p align="left">
