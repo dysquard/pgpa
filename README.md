@@ -27,7 +27,7 @@ For Mac users:
 
   Double click the `GamepadPro Active Tool.rar` file to unzip.
   
-  Then double click the `Activate.bat` file to activate your phone.
+  Then double click the `Activate.bat`(`Activate.command` for Mac) file to activate your phone.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/4.png"  width="380">
 </p>
@@ -38,7 +38,7 @@ For Mac users:
 </p>
 
 
-  When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`**.
+  When activation is done, you can plug out your phone. **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`(`ActivateWifi.command` for Mac) **.
   
 
   **Reactivation is needed if your phone restarts.**
