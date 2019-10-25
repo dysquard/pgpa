@@ -39,7 +39,8 @@ For Mac users:
 
 
   When activation is done, you can plug out your phone.
-  **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`(`ActivateWifi.command` for Mac) **.
+  
+  **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`(`ActivateWifi.command` for Mac).**
   
 
   **Reactivation is needed if your phone restarts.**
