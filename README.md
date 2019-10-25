@@ -25,7 +25,7 @@ For Mac users:
   
 
 
-  Double click the `GamepadPro Active Tool.rar` file to unzip.
+  Double click the `GamepadPro Active Tool.rar`(or `ActivatorMac.zip` for Mac) file to unzip.
   
   Then double click the `Activate.bat`(`Activate.command` for Mac) file to activate your phone.
 <p align="center">
