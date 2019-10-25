@@ -1,6 +1,7 @@
 Panda Gamepad Pro/Mouse Pro Activation Tutorial
 ========================
 
+For Windows users:
 <p align="left">
 <a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(.RAR file, Must on PC)
   </a>
@@ -15,7 +16,9 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
   Exe file may be reported as virus but it's all due to signature problem, not a virus at all.
 
 
-
+For Mac users:
+<a href="https://github.com/dysquard/pgpa/releases/download/100Mac/ActivatorMac.zip" target="_blank">  Download Mac Activator(.ZIP file, Mac)
+  </a>
 
 
   Connect your phone to PC via USB cable.
