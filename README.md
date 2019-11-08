@@ -57,3 +57,7 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
 
 ## Troubleshoot 
  If you have any trouble, please send post on our <a href="https://www.facebook.com/PandaGamingStudio/posts/">Facebook Group</a> or post an issue on <a href="https://github.com/dysquard/pgp/issues/new">GitHub</a>. Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
+ 
+ ## Video Tutorials
+ 
+ https://www.youtube.com/watch?v=rtNd_3YRicw
