@@ -26,7 +26,7 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
   For users downloaded `.exe`(`Activator.zip` for Mac) file. Double click the `.exe` file to UNZIP.
   For users downloaded `.rar`file, right click to find `Extract` or `Unzip` option to UNZIP.
   <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/5.png"  width="380">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/5.png"  width="600">
 </p>
   
   
