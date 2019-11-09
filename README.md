@@ -26,22 +26,21 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
 - Extract(unzip) the activator package  
 
 	- For users downloaded `.exe`(`Activator.zip` for Mac) file. Double click the `.exe` file to UNZIP.
-
 	- For users downloaded `.rar`file, right click to find `Extract` or `Unzip` option to UNZIP.
-	
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/5.png"  width="1000">
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/5.png"  width="1000"/>
 </p>
   
   
 - Then double click the `Activate.bat`(`Activate.command` for Mac) file to activate your phone.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/4.png"  width="380">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/4.png"  width="380"/>
 </p>
 
 - If a popup window prompts on your phone, tap Allow or Trust or OK button.
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/3.png"  width="380">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/3.png"  width="380"/>
 </p>
 
 
