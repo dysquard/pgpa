@@ -1,6 +1,7 @@
 Panda Gamepad Pro/Mouse Pro Activation Tutorial
 ========================
 
+
 ## Activator for Windows
 <p align="left">
 <a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(.RAR file, Must on PC)
@@ -21,28 +22,28 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
   </a>
 
 ## Steps
-  Connect your phone to PC via USB cable.
+- Connect your phone to PC via USB cable.
+- Extract(unzip) the activator package  
+	- For users downloaded `.exe`(`Activator.zip` for Mac) file. Double click the `.exe` file to UNZIP.
   
-  For users downloaded `.exe`(`Activator.zip` for Mac) file. Double click the `.exe` file to UNZIP.
-  
-  For users downloaded `.rar`file, right click to find `Extract` or `Unzip` option to UNZIP.
+	- For users downloaded `.rar`file, right click to find `Extract` or `Unzip` option to UNZIP.
   <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/5.png"  width="600">
 </p>
   
   
-  Then double click the `Activate.bat`(`Activate.command` for Mac) file to activate your phone.
+- Then double click the `Activate.bat`(`Activate.command` for Mac) file to activate your phone.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/4.png"  width="380">
 </p>
 
-  If a popup window prompts on your phone, tap Allow or Trust or OK button.
+- If a popup window prompts on your phone, tap Allow or Trust or OK button.
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/3.png"  width="380">
 </p>
 
 
-  When activation is done, you can plug out your phone.
+- When activation is done, you can plug out your phone.
   
   **If activation succeeded but then failed after pluging out phone, please try `ActivateWifi.bat`(`ActivateWifi.command` for Mac).**
   
