@@ -18,7 +18,11 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
 
 ## Activator for Mac
 <a href="https://github.com/dysquard/pgpa/releases/download/100Mac/ActivatorMac.zip" target="_blank">  Download Mac Activator(.ZIP file, Mac)
-  </a>
+</a>
+
+When you're running it, if it prompts `can't be opened because it is from an unidentified developer`, just set System Preference > Security & Privacy > Allow apps downloaded from: Anywhere.
+If you don't see the `Anywhere`, open `Terminal`, type `sudo spctl --master-disable` and return, then input your password (different from usual password interface with `*****`, here you can't see anything from your input) and return. Then `Anywhere` appears.
+
 
 ## Steps
 - Connect your phone to PC via USB cable.
