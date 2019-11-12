@@ -3,7 +3,7 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
 &nbsp;
 ## Activator for Windows
 <p align="left">
-<a href="https://github.com/dysquard/pgpa/releases/download/106/GamepadPro.Active.Tool.rar" target="_blank">  Download Activator(.RAR file, Must on PC)
+<a href="https://github.com/dysquard/pgpa/releases/download/108/Gamepad.Mouse.Pro.Active.Tool.rar" target="_blank">  Download Activator(.RAR file, Must on PC)
   </a>
   
 </p>
