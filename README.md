@@ -14,14 +14,24 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
   If you have any trouble with that RAR file, you can <a href="https://github.com/dysquard/pgpa/releases/download/107/GamepadPro.Active.Tool.exe" target="_blank">  Download Exe File(Must on PC).
 </a>
   Exe file may be reported as virus but it's all due to signature problem, not a virus at all.
+  
+  
+  **Important** If you're using Windows 7 or below, maybe you should install <a href="http://adb.clockworkmod.com" target="_blank">ADB Driver</a> first.
+
+  
 
 
 ## Activator for Mac
 <a href="https://github.com/dysquard/pgpa/releases/download/100Mac/ActivatorMac.zip" target="_blank">  Download Mac Activator(.ZIP file, Mac)
 </a>
 
-When you're running it, if it prompts `can't be opened because it is from an unidentified developer`, just set System Preference > Security & Privacy > Allow apps downloaded from: Anywhere.
+**Attention** When you're running it, if it prompts `can't be opened because it is from an unidentified developer`, just set System Preference > Security & Privacy > Allow apps downloaded from: Anywhere.
+
 If you don't see the `Anywhere`, open `Terminal`, type `sudo spctl --master-disable` and return, then input your password (different from usual password interface with `*****`, here you can't see anything from your input) and return. Then `Anywhere` appears.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/macSecurity.png"  width="1000"/>
+</p>
 
 
 ## Steps
@@ -57,9 +67,6 @@ If you don't see the `Anywhere`, open `Terminal`, type `sudo spctl --master-disa
   **Do not turn off USB debugging after activation.**
 
   
-
-## Common Problems 
-   **If you have any connection problem(especially on Win7), please install USB Driver of your phone brand from its official website.**
 
 ## Troubleshoot 
  If you have any trouble, please send post on our <a href="https://www.facebook.com/PandaGamingStudio/posts/">Facebook Group</a> or post an issue on <a href="https://github.com/dysquard/pgpa/issues/new">GitHub</a>. Please CLEARLY describe your phone model, OS version and other related details for your encountered problems.
