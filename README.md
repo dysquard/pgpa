@@ -11,7 +11,7 @@ Panda Gamepad Pro/Mouse Pro Activation Tutorial
   Extract the .rar file to any folder(better to use `WinRAR` to extract).
   
 	
-  If you have any trouble with that RAR file, you can <a href="https://github.com/dysquard/pgpa/releases/download/107/GamepadPro.Active.Tool.exe" target="_blank">  Download Exe File(Must on PC).
+  If you have any trouble with that RAR file, you can <a href="https://github.com/dysquard/pgpa/releases/download/109/Gamepad.Mouse.Pro.Active.Tool.exe" target="_blank">  Download Exe File(Must on PC).
 </a>
   Exe file may be reported as virus but it's all due to signature problem, not a virus at all.
   
