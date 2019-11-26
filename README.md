@@ -42,9 +42,12 @@ If you don't see the `Anywhere`, open `Terminal`, type `sudo spctl --master-disa
 	- For users downloaded `.exe`(`Activator.zip` for Mac) file. Double click the `.exe` file to UNZIP.
 	- For users downloaded `.rar`file, right click to find `Extract` or `Unzip` option to UNZIP.
 
+For Windows users, if it always prompt `phone not found`, you should **install the corresponding USB Driver** of your phone on your PC from your phone's official website.
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/dysquard/pgpa/master/5.png"  width="1000"/>
 </p>
+
   
   
 - Then double click the `Activate.bat`(`Activate.command` for Mac) file to activate your phone.
